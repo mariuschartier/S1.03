@@ -1,0 +1,13 @@
+Documentation technique -> Mattéo & Marius
+
+Documentation utilisateur -> Stanislas & Raphaël
+    Raphaël :
+        PHP Markdown->HTML
+        HTML et CSS
+    Stanislas :
+        Conception initiale
+        Expression régulières
+
+Script de génération -> Raphaël
+
+Suivi des tâches -> Marius

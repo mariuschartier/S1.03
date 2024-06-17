@@ -1,0 +1,3 @@
+fonction possible_lien(texte : chaine[?], connaissance : dictionnaire id-nom):
+    pour ( chaque chaine de (texte séparé par de la ponctuation)):
+        
